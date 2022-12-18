@@ -1,0 +1,20 @@
+/* .CC-login{
+    background-color: bisque;
+    height: 100vh;
+} */
+.CC-login-img{
+    height: 100vh !important;
+}
+.form-back{
+    background-color: aqua;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+
+}
+.fff{
+    border: 6px solid green;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
